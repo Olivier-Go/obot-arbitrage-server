@@ -1,7 +1,7 @@
 # obot-arbitrage-server
-### Ccxws based arbitrage bot for oBot
+### Ccxws based arbitrage server for [oBot](https://github.com/Olivier-Go/obot-sf-backend)
 
-![contributions welcome](screenshot.png)
+![screenshot](screenshot.png)
 
 ```sh
 # install dependencies
